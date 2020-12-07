@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
